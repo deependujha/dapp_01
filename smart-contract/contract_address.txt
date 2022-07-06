@@ -1,0 +1,1 @@
+smart-contract is deployed at "0x57b8556A95ecc904F58Fc5876CBEF62ab0f29F5f".
